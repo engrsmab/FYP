@@ -1,0 +1,11 @@
+Stepper Motor Step Size = 1.8 Degree
+Steps required for one rotation = 200
+Steps per mm = 137
+Y Max Distance = 200mm
+Z-Pen on Page Position = 50mm
+
+==========================================
+Line Designing Parameters
+Pixels to mm:
+Y: Height Factor = 2
+X: Width Factor = 3.5
